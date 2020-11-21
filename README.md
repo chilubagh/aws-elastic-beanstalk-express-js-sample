@@ -11,10 +11,10 @@ Configured AWS CodeBuild to build the source code from GitHub
 Used AWS CodePipeline to set up the continuous delivery pipeline with source, build, and deploy stages
 
 
-Application Architecture
 
-The diagram below provides a visual representation of the services used in this tutorial and how they are connected. This application used GitHub, AWS Elastic Beanstalk, AWS CodeBuild, and AWS CodePipeline as pictured below.
 
-As we go through the tutorial, we will discuss the services in detail and point to resources that will help you get up to speed with them.
+
+
+
 
 
